@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: ww0cj
 ---
 
-# Welcome to Hollywoo
+# ww0cj
 
-Hello. I am BoJack. Horseman, obviously
+i'm a web developer and amateur radio operator hoping to go into the field of electrical engineering.
