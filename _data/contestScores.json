@@ -1,0 +1,20 @@
+[
+    {
+        "name": "FT Roundup",
+        "callsign": "WW0CJ",
+        "ops": ["WW0CJ"],
+        "station": "K1TTT",
+        "class": "SO Unlimited LP",
+        "qth": "WMA",
+        "optime": 21,
+        "160qsos": 0,
+        "80qsos": 179,
+        "40qsos": 317,
+        "20qsos": 327,
+        "15qsos": 130,
+        "10qsos": 0,
+        "mults": 96,
+        "score": 91488,
+        "comments": "Had a good time! First single-op contest."
+    }
+]
