@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: ww0cj
+title: cj's workshop
 ---
 
-# ww0cj
+# cj's workshop
 
-i'm a web developer and amateur radio operator hoping to go into the field of electrical engineering.
+amateur radio operator (wwØcj) + web developer hoping to go into electrical engineering.
