@@ -10,3 +10,4 @@
 - [ ] Dark/Light Modes
 - [ ] Update site meta
 - [ ] 404 Page
+- [ ] about me
