@@ -21,3 +21,7 @@ this site was built using the following technologies:
 * sass
 * liquid
 * template from [arpitbatra123](https://github.com/arpitbatra123/eleventy-blog-mnml)
+
+## contact me
+
+got a question for me, or feedback on a post? feel free to shoot me an email at `ww0cj (at) onlyhams (dot) ca`
