@@ -1,0 +1,1 @@
+- [ ] move <head> to _includes/base.liquid
