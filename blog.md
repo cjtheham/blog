@@ -1,5 +1,6 @@
 ---
 layout: archive.liquid
+title: cj's workshop - blog
 ---
 
 <style>
