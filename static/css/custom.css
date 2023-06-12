@@ -3,12 +3,14 @@
   padding: 15px; /* creates some space around the widget */
 }
 
+
 #ring73 table {
   margin: 0 auto; /* centers the widget */
+  width: fit-content;
 }
 
 #ring73 table tr td {
-  padding: 15px; /* creates some space between the links and text inside the widget */
+  padding: 10px; /* creates some space between the links and text inside the widget */
 }
 
 #ring73 .webring-prev {
